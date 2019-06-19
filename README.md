@@ -1,9 +1,9 @@
-# positioning-and-floating-elements
-# HTML Mock Up page using HTML Floating Elements
-This is a small project using floating elements of HTML<br>
-Clone: https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html<br>
-Live Page: https://eapenzacharias.github.io/Positioning-and-Floating-Elements/
+# Positioning and Floating Elements
+### HTML Mock Up page using Floating Elements
+#### Project 1
+<b>Clone:</b> https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html<br>
+<b>Live Page:</b> https://fsolm.github.io/positioning-and-floating-elements/
 
-Created by:<br>
+#### Created by:
 Carlos Sol: <a href="https://github.com/FSolM">@FSolM</a><br>
 Eapen Zacharias: <a href="https://github.com/eapenzacharias">@eapenzacharias</a>
