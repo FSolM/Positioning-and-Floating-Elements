@@ -1,6 +1,6 @@
 # Positioning and Floating Elements
 ### HTML Mock Up page using Floating Elements
-#### Project 1
+#### Project 3
 <b>Clone:</b> https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html<br>
 <b>Live Page:</b> https://fsolm.github.io/positioning-and-floating-elements/
 
